@@ -12,3 +12,5 @@ I've provided 1 million vertices input available as zip and please extract it to
 Delphi version is updated to 10.3 Rio as it can compile 64 bit binary even on Free Community Edition.
 Delphi is availabe from https://www.embarcadero.com/products/delphi/product-editions
 Please choose 64 bit install to run my application
+
+Video is available here: https://www.youtube.com/watch?v=7wdV_I2Dk9o
