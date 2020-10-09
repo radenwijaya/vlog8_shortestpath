@@ -7,6 +7,8 @@ Enhancement can also be found on the input generator. It now produces better dat
 
 I still strongly discourage the use of this algorithm in production even though for all the tests I conducted with this algorithm produces the same result as Floyd-Warshall's algorithm.  The correctness of this algorithm has not yet been proven, especially on larger input as I have no way to confirm it.
 
+I've provided 1 million vertices input available as zip and please extract it to the working directory of the application.  If you need you can generate up to 10 million vertices, but I cannot upload it as it is too big for the github.
+
 Delphi version is updated to 10.3 Rio as it can compile 64 bit binary even on Free Community Edition.
 Delphi is availabe from https://www.embarcadero.com/products/delphi/product-editions
 Please choose 64 bit install to run my application
